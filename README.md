@@ -1,1 +1,1 @@
-# NLP Topics to be covered 
+# NLP Topics.
