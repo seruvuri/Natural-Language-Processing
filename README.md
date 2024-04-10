@@ -6,6 +6,5 @@
      
        -> Lemmatization.
    
-  3. Word Embedings
+  3. Bag of Words(Count Vectorizer)
 
-     -> Bag of Words(Count Vectorizer)
