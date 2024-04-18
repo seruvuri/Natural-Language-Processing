@@ -10,3 +10,4 @@
   3. TFIDF Vectorizer
   4. Word2Vec
   5. Long Short Term Memory(LSTM).
+  6. Word Embedings.
