@@ -13,4 +13,10 @@
   6. Word Embedings.(using Keras)
      1. Word2Vec
      2. Glove
-     3. Fast Text 
+     3. Fast Text
+    
+NLP Projects
+
+  1. SMS Classifier.
+  
+  2. Fake News Classifier using LSTM.
