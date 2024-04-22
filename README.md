@@ -20,3 +20,5 @@ NLP Projects
   1. SMS Classifier.
   
   2. Fake News Classifier using LSTM.
+
+  3. Sentiment Analysis.
