@@ -15,6 +15,8 @@
      2. Glove
      3. Fast Text
     
+  7. Bidirectional RNN
+    
 NLP Projects
 
   1. SMS Classifier.
