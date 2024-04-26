@@ -16,6 +16,7 @@
      3. Fast Text
     
   7. Bidirectional RNN
+  8. Encoders and Decoders
     
 NLP Projects
 
