@@ -25,3 +25,4 @@ NLP Projects
   2. Fake News Classifier using LSTM.
 
   3. Sentiment Analysis.
+  4. Named Entity Recognition 
