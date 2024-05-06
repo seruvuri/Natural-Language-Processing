@@ -16,7 +16,8 @@
      3. Fast Text
     
   7. Bidirectional RNN
-  8. Encoders and Decoders
+  8. Encoders and Decoders.
+  9. Attension Models.
     
 NLP Projects
 
